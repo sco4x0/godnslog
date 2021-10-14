@@ -1,0 +1,6 @@
+listen: 0.0.0.0
+domain: vul.test
+http_port: 8004
+http_view: true
+http_offset: 10
+token: admin123
