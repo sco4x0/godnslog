@@ -1,0 +1,4 @@
+/vendor
+.DS_Store
+data.db3
+/Frontend/dnslog_frontend
